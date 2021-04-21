@@ -18,7 +18,7 @@ The file consists of two sheets -
   TestCase - contains the manual test cases for the demo website.
   Defects_obervation - contains defects/obervation found in the website.
   
-#Execution:
+#**Execution**:
 The project setup steps :- 
   1.  Clone the project using url :- https://github.com/jitendrabdev/advertisement.git
   2.  Navigate to advertisement folder and open the new terminal.
