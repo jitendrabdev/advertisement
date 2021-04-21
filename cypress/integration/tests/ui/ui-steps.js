@@ -1,5 +1,7 @@
 /// <reference types="cypress" />
-
+function generateRandom() {
+  return Math.floor((Math.random() + 1) * 100);
+}
 let advertisement1 = "";
 
 Given("I navigate to advertisement page", () => {
