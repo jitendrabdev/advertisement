@@ -1,0 +1,7 @@
+{
+  "video": false,
+  "defaultCommandTimeout": 20000,
+  "ignoreTestFiles": ["*.js", "*.md"],
+  "testFiles": "**/*.{feature,features}",
+  "baseUrl": "https://admin-advertisement.herokuapp.com/advertisement"
+}
