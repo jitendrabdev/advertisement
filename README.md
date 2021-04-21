@@ -26,4 +26,4 @@ The project setup steps :-
   4.  Run command as "npm install cypress-cucumber-preprocessor"
   5.  To execute testcases using following commands:
       a.  "npm run test" (To run execution without cypress UI interface).
-      b.  "npx cypress open"(To run execution with cypress UI interface)
+      b.  "npm run cypress"(To run execution with cypress UI interface)
